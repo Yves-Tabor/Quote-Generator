@@ -3,6 +3,7 @@
 
 
 
+
 import { useState, useEffect } from "react";
 import QuoteCard from "./Components/QuoteCard";
 import CategorySelector from "./Components/Categoryselector";
